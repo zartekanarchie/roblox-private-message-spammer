@@ -1,0 +1,9 @@
+{
+    "message": {
+        "subject": "Hey Jimbeaners",
+        "body": "You Just got Spammed on roblox XD !"
+    },
+    "cookies": [],
+    "receivers": [3254298971],
+    "DiscordWebHook": [YOUR_WEB_HOOK]
+}
