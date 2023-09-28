@@ -8,6 +8,7 @@ Spams the dms of providen roblox user ids with different cookies
 
 # requirements
 -requires Python 3.11.x [ https://www.python.org/ftp/python/3.11.5/python-3.11.5-amd64.exe ]
+
 -after installing python run the requirements.bat to install the main.py scripts requirements.
 
 
